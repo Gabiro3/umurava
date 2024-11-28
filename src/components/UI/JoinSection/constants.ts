@@ -12,34 +12,38 @@ export type Props = {
 export const testimonials = [
   {
     testimony:
-      "RAFT has transformed my approach to finance. Their smart investing options have helped me grow my wealth, and their user-friendly platform makes managing my money a breeze. I've never felt more confident about my financial future.",
-    person: 'Robert Fox',
+      "Umurava has completely changed my career trajectory. The Talent Xperience events and Career Ticketing program gave me real-world experience and connected me with top employers. I'm now in a role I love, thanks to their support.",
+    person: 'Tariq M.',
     avatar: robert_fox,
   },
   {
     testimony:
-      "I can't express how grateful I am to RAFT. Their wealth management services have been a game-changer for my family's financial security. The expert guidance and personalized strategies have given us peace of mind, knowing that our future is in capable hands.",
-    person: 'Cameron Williamson',
+      "Thanks to Umurava, I gained new digital skills through their Skills Challenges. Their platform helped me build a strong talent profile that landed me multiple job offers in the tech industry. It’s been a game-changer for my career.",
+    person: 'Nia W.',
     avatar: cameron_williamson,
   },
   {
     testimony:
-      "RAFT's financial planning services have been a lifeline for me. I always struggled with managing my money, but their team crafted a tailored plan that addressed my goals and concerns. It's been a game-changer in achieving my financial dreams",
-    person: 'Esther Howard',
+      "As a company, we partnered with Umurava to access highly skilled, vetted freelancers for our projects. Their talent pool has been instrumental in improving our project efficiency, and we’ve seen a significant boost in our output. Highly recommended!",
+    person: 'David O.',
+    company: 'Tech Innovations Ltd.',
     avatar: esther_howard,
   },
   {
     testimony:
-      "I can't express how grateful I am to RAFT. Their wealth management services have been a game-changer for my family's financial security. The expert guidance and personalized strategies have given us peace of mind, knowing that our future is in capable hands.",
-    person: 'Cameron Williamson',
-    avatar: cameron_williamson,
+      "We outsourced several roles through Umurava’s platform, and it has been seamless. The quality of talent we've sourced has exceeded our expectations. The talent is not only skilled but also affordable and reliable. Umurava has been a true partner in our growth.",
+    person: 'Sarah E.',
+    company: 'Global Tech Solutions',
+    avatar: esther_howard,
   },
   {
     testimony:
-      "RAFT has transformed my approach to finance. Their smart investing options have helped me grow my wealth, and their user-friendly platform makes managing my money a breeze. I've never felt more confident about my financial future.",
-    person: 'Robert Fox',
-    avatar: robert_fox,
+      "Our company used Umurava’s services to fill key positions, and the process was incredibly fast. We had access to top-tier talent, and the efficiency of their platform made the recruitment process smoother and faster than traditional methods.",
+    person: 'John R.',
+    company: 'Innovative Enterprises',
+    avatar: esther_howard,
   },
 ];
 
-export const desktopHeaderPhrase = ['Join over 3 million', 'members'];
+
+export const desktopHeaderPhrase = ['Join over 10,000', 'talents'];

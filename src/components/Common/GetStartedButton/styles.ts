@@ -6,7 +6,7 @@ export const LinkTo = styled(Link)`
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 6.25rem;
+  border-radius: 5.25rem;
   background: var(--green);
   color: var(--white);
   font-size: 1rem;

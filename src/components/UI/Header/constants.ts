@@ -22,15 +22,23 @@ export const menu = {
 };
 export const links = [
   {
+    url: 'https://umurava.africa/talents',
+    linkTo: 'Platform',
+  },
+  {
     url: '/',
     linkTo: 'Solutions',
   },
   {
     url: '/',
-    linkTo: 'Learn',
+    linkTo: 'How it works',
   },
   {
     url: '/',
-    linkTo: 'About',
+    linkTo: 'For Talents',
+  },
+  {
+    url: '/',
+    linkTo: 'About Us',
   },
 ];

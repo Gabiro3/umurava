@@ -2,56 +2,58 @@ import ic_money_send from '../../../../public/svgs/ic_money_send.svg';
 import ic_wallet_minus from '../../../../public/svgs/ic_wallet_minus.svg';
 export const cardsInfo = [
   {
-    title: 'Spend Better',
+    title: 'Hire Faster, Hire Smarter',
     details:
-      'Set and achieve financial goals with ease, automate your savings, and watch your money grow without the stress.',
+      'Eliminate lengthy hiring processes by accessing a pool of pre-vetted, highly skilled talent, and get the right people for your team in just 48 hours.',
     icon: ic_money_send,
   },
   {
-    title: 'Invest Better',
+    title: 'Up-skill Faster, Get Hired Sooner',
     details:
-      'Set and achieve financial goals with ease, automate your savings, and watch your money grow without the stress.',
+      'Gain in-demand digital skills, complete assessments, and enhance your profile to unlock global job opportunities and accelerate your career growth.',
     icon: ic_wallet_minus,
   },
 ];
 
+
 export const stats = [
   {
-    number: '50+',
-    subtitle: 'cities',
+    number: '300+',
+    subtitle: 'companies',
   },
   {
-    number: '50,000+',
-    subtitle: 'transactions',
+    number: '10,000+',
+    subtitle: 'talents',
   },
   {
-    number: '3M+',
-    subtitle: 'users',
+    number: '1000+',
+    subtitle: 'jobs fulfilled',
   },
   {
-    number: '5+',
-    subtitle: 'user ratings',
+    number: '500+',
+    subtitle: 'job listings',
   },
 ];
 
 // For desktop
+// For desktop
 export const desktopHeaderPhrase = [
-  'Confidently Shape Your',
-  'Financial Future',
+  'Confidently Build Your',
+  'Digital Future',
 ];
+
 export const desktopParagraphPhrase = [
-  'At RAFT, we empower you to confidently shape your financial future. Our modern',
-  'approach simplifies saving and investing, making it easier than ever.',
+  'At Umurava, we empower companies to hire top talent and help individuals build digital skills. Our platform simplifies talent acquisition and career growth, making success easier than ever.',
 ];
 
 // For mobile
 export const mobileHeaderPhrase = [
-  'Confidently Shape',
-  ' Your Financial Future',
+  'Confidently Build',
+  'Your Digital Future',
 ];
+
 export const mobileParagraphPhrase = [
-  'At RAFT, we empower you to confidently shape',
-  'your financial future. Our modern approach',
-  'simplifies saving and investing, making it easier',
-  'than ever.',
+  'At Umurava, we help companies hire quality talent and individuals enhance their digital skills.',
+  'Our platform makes talent acquisition and career growth simpler, faster, and more efficient.',
 ];
+

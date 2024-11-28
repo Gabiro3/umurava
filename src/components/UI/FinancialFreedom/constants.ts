@@ -4,24 +4,27 @@ import ic_circle_stack from '../../../../public/svgs/ic_circle_stack.svg';
 import ic_arrows_left_right from '../../../../public/svgs/ic_arrows_right_left.svg';
 
 // For desktop
-export const desktopHeaderPhrase = ['Your Financial Freedom,', 'Your Way'];
-export const desktopParagraphPhrase = [
-  'We believe that managing your finances should be effortless and cost-effective.',
-  "That's why we offer you the freedom you deserve.",
+export const desktopHeaderPhrase = [
+  'Build Your Digital Skills,',
+  'with Umurava',
 ];
+
+export const desktopParagraphPhrase = [
+  'Umurava helps you acquire in-demand digital skills, build a strong talent profile, and connect with top global job opportunities.'
+];
+
 export const desktopBriefNotePhrase = [
-  'Smart investments,',
-  'secure payments, and',
+  'Top-tier talents,',
+  'career tools, and',
   'expert guidance, all in',
   'one place.',
 ];
 
 // For mobile
-export const mobileHeaderPhrase = ['Your Financial', 'Freedom, Your Way'];
+export const mobileHeaderPhrase = ['Build Your Digital Skills,',
+'with Umurava'];
 export const mobileParagraphPhrase = [
-  'We believe that managing your finances should be',
-  "effortless and cost-effective. That's why we offer",
-  ' you the freedom you deserve.',
+  'Umurava helps you acquire in-demand digital skills, build a strong talent profile, and connect with top global job opportunities.'
 ];
 
 export const mobileBriefNotePhrase = [
@@ -36,21 +39,22 @@ export const mobileBriefNotePhrase = [
 
 export const edges = [
   {
-    point: 'No minimum balance fees',
+    point: 'Talent Profile',
     details:
-      'Say goodbye to minimum balance fees. Your account, your balance—no hidden charges',
+      'Showcase your hard and soft skills, work experience, education, and expertise. Automate your resume to highlight your strengths.',
     icon: ic_banknotes,
   },
   {
-    point: 'No monthly fees',
+    point: 'Job Board',
     details:
-      'Bank with us without worrying about monthly fees. Keep more of your money where it belongs—in your account',
+      'Access local and global job opportunities, stay updated on in-demand skills, and apply for multiple jobs to maximize your chances.',
     icon: ic_circle_stack,
   },
   {
-    point: 'No bank transfer fees',
+    point: 'Community',
     details:
-      'Seamlessly transfer funds without the extra cost. Send and receive money with zero bank transfer fees.',
-    icon: ic_arrows_left_right,
+      'Engage in skills competitions, hackathons, and events to connect with peers and showcase your talent. Get matched directly with the Companies.',
+    icon: ic_circle_stack,
   },
 ];
+

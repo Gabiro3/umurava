@@ -3,8 +3,8 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Raft',
-  description: 'Building the future of banking',
+  title: 'Umurava | Partner with us for your staffing needs',
+  description: 'Partner with us for your staffing needs.',
 };
 
 export default function RootLayout({

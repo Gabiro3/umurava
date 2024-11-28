@@ -3,39 +3,40 @@ import ic_identification from '../../../../public/svgs/ic_identification.svg';
 import ic_lock_closed from '../../../../public/svgs/ic_lock_closed.svg';
 
 // For desktop
-export const desktopHeaderPhrase = ["Introducing RAFT's Next-", 'Gen Cards'];
+// For desktop
+export const desktopHeaderPhrase = ["Introducing Umurava's", 'Talent Programs'];
+
 export const desktopParagraphPhrase = [
-  " Discover RAFT's latest innovation – our new cards. Elevate your banking",
-  'experience with cutting-edge features, security, and unprecedented',
-  'convenience.',
+  "Discover Umurava's exclusive talent-enrichment programs—Career Ticketing, Talent Xperience events, and Skills Challenges.",
 ];
 
 // For mobile
-export const mobileHeaderPhrase = ["Introducing RAFT's", 'Next-Gen Cards'];
+export const mobileHeaderPhrase = ["Introducing Umurava's", 'Talent Programs'];
+
 export const mobileParagraphPhrase = [
-  " Discover RAFT's latest innovation – our new cards.",
-  ' Elevate your banking experience with cutting-edge',
-  'features, security, and unprecedented',
-  'convenience.',
+  "Discover Umurava's talent-enrichment programs, including Career Ticketing, Talent Xperience events, and Skills Challenges.",
+  "Level up your career by gaining valuable skills and hands-on experience with our tailored programs.",
 ];
+
 
 export const edges = [
   {
-    point: 'Contactless Technology',
+    point: 'Career Advancement',
     details:
-      'Our new cards come equipped with contactless technology, allowing you to make swift, secure payments with a simple tap.',
+      'Our Career Ticketing program helps you gain access to exclusive job opportunities and career guidance, paving the way for faster career growth.',
     icon: ic_document_duplicate,
   },
   {
-    point: 'Personalization',
+    point: 'Real-World Experience',
     details:
-      'Customize your card to reflect your unique style. Choose from a range of designs that suit your personality.',
+      'Talent Xperience events give you hands-on learning opportunities, where you can work on live projects and showcase your skills to potential employers.',
     icon: ic_identification,
   },
   {
-    point: 'Enhanced Security',
+    point: 'Skill Enhancement',
     details:
-      'Your peace of mind is our priority. Our cards feature advanced security measures to protect your transactions and data.',
+      'Our Skills Challenges allow you to demonstrate your abilities, learn from experts, and improve your competencies, making you more competitive in the job market.',
     icon: ic_lock_closed,
   },
 ];
+

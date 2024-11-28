@@ -65,7 +65,7 @@ export const Nav = styled.div`
   a {
     color: var(--link-color);
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 600;
   }
 
   @media (max-width: 768px) {

@@ -4,44 +4,45 @@ import wealth_management from '../../../../public/images/wealth_management.png';
 import financial_planning from '../../../../public/images/financial_planning.png';
 // For desktop
 export const desktopHeaderPhrases = [
-  'Elevate Your Financial',
-  'Journey with RAFT',
+  'Elevate Your Hiring',
+  'Process with Umurava',
 ];
 export const desktopParagraphPhrase = [
-  'RAFT offers a world of financial possibilities. From investments to payments,',
-  "we've got you covered. Join us and unlock your potential today.",
+  'We are building Africa’s large workforce of Digital Talents for the digital economy.',
+  'Share your job or project brief and get vetted profiles.',
 ];
+
 
 // For mobile
 export const mobileParagraphPhrase = [
-  'RAFT offers a world of financial possibilities. From',
-  "investments to payments, we've got you covered.",
-  'Join us and unlock your potential today.',
+  'We are building Africa’s large workforce of Digital Talents for the digital economy.',
+  'Share your job or project brief and get vetted profiles.',
 ];
 
 export const offers = [
   {
     illustration: seamless_payments,
-    title: 'Seamless Payments',
+    title: 'Freelancing',
     details:
-      'Enjoy secure, seamless transactions that make managing your money a breeze.',
+      'By 2030, 80% of the global workforce will engage in freelancing. Umurava empowers businesses to access skilled and affordable African freelancers for projects worldwide.',
   },
   {
     illustration: smart_investing,
-    title: 'Smart Investing',
+    title: 'Outsourcing',
     details:
-      'Grow your wealth confidently with our personalized investment solutions, tailored to your financial goals.',
-  },
-  {
-    illustration: wealth_management,
-    title: 'Wealth Management',
-    details:
-      'Make informed decisions for your financial future with our wealth management expertise.',
+      'Africa is set to have the largest workforce by 2040. Umurava builds outsourcing hubs, connecting global companies with skilled African talent to tackle unemployment and drive growth.',
   },
   {
     illustration: financial_planning,
-    title: 'Financial Planning',
+    title: 'Recruitment',
     details:
-      'Achieve your financial dreams with our comprehensive financial planning services, guiding you toward a secure future.',
+      'Traditional recruiting is complex and slow. Umurava simplifies hiring with cost-effective solutions, tapping into the $56.57 billion digital talent acquisition market.',
+  },
+  {
+    illustration: wealth_management,
+    title: 'Remote Working',
+    details:
+      'The future of work is remote. Umurava develops globally competitive African talent, unlocking opportunities for remote jobs across public and private sectors.',
   },
 ];
+
