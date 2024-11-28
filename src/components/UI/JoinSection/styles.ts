@@ -3,7 +3,7 @@ import { styled } from 'styled-components';
 
 export const Wrapper = styled.section`
   margin-top: 8.56rem;
-  background: var(--emerald);
+  background: #e1e6fc;
 `;
 
 export const Inner = styled.div`
