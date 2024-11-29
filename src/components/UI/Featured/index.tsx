@@ -1,6 +1,6 @@
 'use client';
 import Image from 'next/image';
-import big_banner from '../../../../public/images/bg_banner.jpg';
+import big_banner from '../../../../public/images/talentexp.jpg';
 import featured_mobile_banner from '../../../../public/images/bg_banner_mobile.jpg';
 import ParallaxText from '@/components/Common/ParallaxImages';
 import companies_image from '../../../../public/images/Company.png';
