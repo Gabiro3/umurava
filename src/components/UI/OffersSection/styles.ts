@@ -52,36 +52,30 @@ export const ImageCtn = styled.div`
   margin: 3rem auto 0;
   position: relative;
   display: flex;
+  justify-content: center; /* Centers images horizontally */
+  align-items: center; /* Centers images vertically */
 
   &::after {
-    position: absolute;
-    content: '';
-    height: 13.4375rem;
-    width: 100%;
-    background: linear-gradient(180deg, rgba(19, 19, 19, 0) 0%, #131313 100%);
-    left: 0;
-    top: 50px;
+    content: ''; /* Removes the gradient by omitting background styling */
+    display: none; /* Alternatively, just hide the pseudo-element */
   }
 
   img {
     width: 100%;
     object-fit: contain;
+    display: block; /* Ensures the image behaves as a block-level element */
+    margin: 0 auto; /* Centers image horizontally */
   }
 
   @media (max-width: 768px) {
     margin: 0.32rem auto 0;
 
-    &::after {
-      top: 30px;
-    }
-
     img {
       width: 90%;
-      margin: 0 auto;
-      object-fit: contain;
     }
   }
 `;
+
 
 export const TextCtn = styled.div`
   padding: 2.5rem;
