@@ -1,7 +1,7 @@
 import seamless_payments from '../../../../public/images/Outsourcing.png';
 import smart_investing from '../../../../public/images/hiring.png';
-import wealth_management from '../../../../public/images/remote.png';
-import financial_planning from '../../../../public/images/Recruitment.png';
+import wealth_management from '../../../../public/images/Recruitment.png';
+import financial_planning from '../../../../public/images/remote.png';
 // For desktop
 export const desktopHeaderPhrases = [
   'Elevate Your Hiring',
