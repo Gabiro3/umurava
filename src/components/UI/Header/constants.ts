@@ -37,8 +37,4 @@ export const links = [
     url: '/',
     linkTo: 'For Talents',
   },
-  {
-    url: '/',
-    linkTo: 'About Us',
-  },
 ];
