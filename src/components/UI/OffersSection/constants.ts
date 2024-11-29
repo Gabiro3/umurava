@@ -34,15 +34,16 @@ export const offers = [
   },
   {
     illustration: wealth_management,
-    title: 'Remote Working',
-    details:
-      'The future of work is remote. Umurava develops globally competitive African talent, unlocking opportunities for remote jobs across public and private sectors.',
-  },
-  {
-    illustration: financial_planning,
     title: '',
     details:
       '',
   },
+  {
+    illustration: financial_planning,
+    title: 'Recruitment',
+    details:
+      'Traditional recruiting is complex and slow. Umurava simplifies hiring with cost-effective solutions, tapping into the $56.57 billion digital talent acquisition market.',
+  },
+
 ];
 
