@@ -11,7 +11,7 @@ const Preloader = ({
 }: {
   setComplete: Dispatch<SetStateAction<boolean>>;
 }) => {
-  const word = ['G', 'r', 'o', 'w'];
+  const word = ['W', 'o', 'r', 'k'];
 
   const spans = useRef<any>([]); // Create a ref to store the span elements
   const imageRef = useRef(null);
