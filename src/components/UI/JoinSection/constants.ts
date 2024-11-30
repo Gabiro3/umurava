@@ -13,19 +13,19 @@ export const testimonials = [
   {
     testimony:
       "Umurava has completely changed my career trajectory. The Talent Xperience events and Career Ticketing program gave me real-world experience and connected me with top employers. I'm now in a role I love, thanks to their support.",
-    person: 'Tariq M.',
+    person: 'Gakire M.',
     avatar: robert_fox,
   },
   {
     testimony:
       "Thanks to Umurava, I gained new digital skills through their Skills Challenges. Their platform helped me build a strong talent profile that landed me multiple job offers in the tech industry. It’s been a game-changer for my career.",
-    person: 'Nia W.',
+    person: 'Andrew G.',
     avatar: cameron_williamson,
   },
   {
     testimony:
       "As a company, we partnered with Umurava to access highly skilled, vetted freelancers for our projects. Their talent pool has been instrumental in improving our project efficiency, and we’ve seen a significant boost in our output. Highly recommended!",
-    person: 'David O.',
+    person: 'Marie P.',
     company: 'Tech Innovations Ltd.',
     avatar: esther_howard,
   },

@@ -24,7 +24,7 @@ export const offers = [
     illustration: seamless_payments,
     title: 'Freelancing',
     details:
-      'By 2030, 80% of the global workforce will engage in freelancing. Umurava empowers businesses to access skilled and affordable African freelancers.',
+      'Umurava empowers businesses to access skilled and affordable African freelancers.',
   },
   {
     illustration: smart_investing,
